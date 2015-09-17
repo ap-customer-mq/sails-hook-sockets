@@ -1,6 +1,6 @@
 {
   "name": "sails-hook-sockets",
-  "version": "0.11.24f",
+  "version": "0.11.24g",
   "description": "Implements socket.io support in Sails",
   "keywords": [
     "socket.io",
@@ -20,7 +20,7 @@
     "machinepack-fs": "^3.0.0",
     "machinepack-http": "^2.1.2",
     "mocha": "^2.2.4",
-    "sails": "AnyPresence/sails#0.12.0-rc3f",
+    "sails": "AnyPresence/sails#0.11.0a",
     "sails.io.js": "^0.11.5",
     "socket.io-redis": "^0.1.4"
   },
