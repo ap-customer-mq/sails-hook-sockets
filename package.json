@@ -9,18 +9,18 @@
     "hook"
   ],
   "dependencies": {
-    "socket.io": "AnyPresence/socket.io-client#1.3.6a",
+    "socket.io": "ap-customer-mq/socket.io-client#1.3.6a",
     "semver": "^4.3.4",
     "lodash": "^2.4.1",
     "machinepack-urls": "^3.1.1",
-    "socket.io-client": "AnyPresence/socket.io-client#1.3.6a"
+    "socket.io-client": "ap-customer-mq/socket.io-client#1.3.6a"
   },
   "devDependencies": {
     "async": "^0.9.0",
     "machinepack-fs": "^3.0.0",
     "machinepack-http": "^2.1.2",
     "mocha": "^2.2.4",
-    "sails": "AnyPresence/sails#0.11.0a",
+    "sails": "ap-customer-mq/sails#0.11.0a",
     "sails.io.js": "^0.11.5",
     "socket.io-redis": "^0.1.4"
   },
